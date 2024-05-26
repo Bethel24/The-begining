@@ -1,4 +1,4 @@
-# Credit Analysis for Vodafone PLC
+# Credit Analysis of Vodafone PLC
 # Executive Summary
 This report will aim to critically analyse the financial performance and position of Vodafone Plc with respect to their profitability, liquidity, solvency, cash-generating capability and other non-financial information to determine whether lending a short-term (less than a year) or long-term (more than a year) bank loan to this company is a viable decision. The analysis will utilise information from the company’s financial statements across a five-year and 2 years from 2018 to 2022 and 2021-2022. This information will then be assessed relative to company performance over time and against peers while leveraging on popular assertions concerning the industry and industrial outlook to obtain a comprehensive analysis of the company's current debt position and repayment abilities. 
 
